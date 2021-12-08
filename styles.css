@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap");
+
+/*
+      SPACE SIZE SYSTEM (px)
+      2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 /
+      80 / 96 / 128
+
+      FONT SIZE SYSTEM (px)
+      10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 /
+      36 / 44 / 52 / 62 / 74 / 86 / 98
+      */
+
+/*
+      MAIN COLOR: hsl(225, 100%, 94%);
+      GREY COLOR: hsl(245, 75%, 52%);
+
+
+      ### Neutral
+
+      - Very pale blue: hsl(225, 100%, 98%)
+      - Desaturated blue: hsl(224, 23%, 55%)
+      - Dark blue: hsl(223, 47%, 23%)
+      */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* {} */
+
+body {
+  font-family: "Red Hat Display", sans-serif;
+}
+
+.card-container {
+  background-color: darkorange;
+  width: 450px;
+}
+
+/* .content {
+  padding: ;
+} */
+
+.main-paragraph {
+  font-size: 16px;
+  font-family: "Red Hat Display", sans-serif;
+}
+
+/* section {
+} */
+
+/* .audio-section {
+}
+
+.icon {
+}
+
+.price {
+}
+
+.option {
+}
+
+.btn {
+} */
